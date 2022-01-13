@@ -1,5 +1,7 @@
 # Fuel Up! -- Group Project 1
 
+<img src="https://raw.githubusercontent.com/JonsOrganization/TechnicallyAMammal/master/images/FuelUp.png" width="70%" />
+
 ##  
 Welcome to our web application, *Fuel Up!* This app is the first application I've built with a team in about 6 to 7 years. I want to thank Elliot, Sean, and Ashley once again for being such great people to work with. We struggled around the halfway mark getting pressed for time as we spent too much time initially finding that AMAZING APP IDEA and not focusing on ideas that were within our capability and time frame to complete. 
 
