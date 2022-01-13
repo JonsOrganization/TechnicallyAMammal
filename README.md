@@ -1,7 +1,11 @@
-## TechnicallyAMammal   
-a platypus is technically a mammal
+# Fuel Up! -- Group Project 1
 
-Welcome to our web application, Fuel Up! 
+##  
+Welcome to our web application, *Fuel Up!* This app is the first application I've built with a team in about 6 to 7 years. I want to thank Elliot, Sean, and Ashley once again for being such great people to work with. We struggled around the halfway mark getting pressed for time as we spent too much time initially finding that AMAZING APP IDEA and not focusing on ideas that were within our capability and time frame to complete. 
+
+We kind of bottlenecked in a way as everyone lost track of their roles and current tasks as ideas and the entire concept shifted from using this API for that purpose and so forth. So.... GREAT learning experience empowering us with that mistake we will only make once (🤞). Moving forward I will be keeping that multiplatform mega app on the back burner, focus on the limitations and opportunities I am presented with, and get started on an MVP that works.  
+
+## User Story
 
 - With the rise of electric cars hitting the roads these days with no shortage of gas-powered cars, Fuel Up gives the user a one-stop hop to the nearest station!!! Including address, phone number, distance (gas), and charging type (electric).
 
@@ -10,44 +14,19 @@ Welcome to our web application, Fuel Up!
 - User just got spouse an electric vehicle and is still truckin’ down the highway with gasoline under the hood. The couple wants a quick way for drivers in either vehicle to find the closest charging station, especially in a bind when their fuel is low. - 
 
 
- ## Deployed site: https://team6diamondplatipi.github.io/TechnicallyAMammal/ 
+ ## LIVE: https://team6diamondplatipi.github.io/TechnicallyAMammal/ 
  
- 
-## Application Requirements</p>
-<p>	Must use at least two server-side APIs</p>
-<p>	Must use a CSS framework _other than_ Bootstrapv
-<p>	Must be interactive (i.e: accept and respond to user input)</p>
-<p>	Use at least one new third-party API</p>
-<p>	Must have a polished UI</p>
-<p>	Must meet good quality coding standard</p>
-<p>	Does not use alerts, confirms or prompts (look into _modals_)</p>
-<p>	Must be deployed to GitHub PagesPresentation Requirements </p>
-<p>	Use project presentation template Below to address the following the criteria below.</p>
-(“https://docs.google.com/presentation/d/1_u8TKy5zW5UlrVQVnyDEZ0unGI2tjQPDEpA0FNuBKAw/edit?usp=sharing”) 
-<p>	Elevator pitch: a one minute description of your application</p>
-<p>	Concept: What is your user story? What was your motivation for development?</p>
-<p>	Process: What were the technologies used? How were tasks and roles broken down and assigned? What challenges did you encounter? What were your successes?</p>
-<p>	Demo: Show your stuff!</p>
-<p>	Directions for Future Development</p>
- 	Links to the deployed application and the GitHub repository</p> 
+## Contact
+<img src="https://avatars0.githubusercontent.com/u/17928947?v=4" alt="Github profile image" width="80px" height="80px" />
 
-<p>
-## Grading Metrics
-<p>Metric	Weight</p>
-<p>Concept</p>
-<p>		Concept  	10%
-<p>		Design	20%
-<p>		Functionality	30%
-<p>		Collaboration	30%</p>
-<p>		Presentation	10%</p>			
+__Jon Christie__ 
 
+GitHub: [mathcodes](https://github.com/mathcodes) 
 
-## Submission on BCS
-<p>You are required to submit the following:</p>
-<p>The URL of the deployed application
-<p>The URL of the GitHub repository
- 
- 
-
-
-
+[<code><img width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></code>](https://www.linkedin.com/jonchristie)       
+[<code><img width="36" src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></code>](https://twitter.com/jonpchristie)       
+[<code><img width="36" src="https://img.icons8.com/color/48/000000/youtube-play.png"/></code>](https://www.youtube.com/channel/UC5GFnN-lv8Yuqc9O3b79k6g)       
+[<code><img width="36" src="https://img.icons8.com/color/48/000000/facebook.png"/></code>](https://www.facebook.com/jonpchristie)       
+[<code><img width="36" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></code>](https://www.instagram.com/fullstack11235)       
+[<code><img width="36" src="https://img.icons8.com/color/48/000000/soundcloud.png"/></code>](https://soundcloud.com/jonchristie#/)       
+[<code><img width="36" src="https://img.icons8.com/color/48/000000/spotify--v1.png"/></code>](https://open.spotify.com/artist/07S7aLfxH70VAX64g1WuFw?si=tlOj1OMBRLm-y4sY8Lox3Q)
