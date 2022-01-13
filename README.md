@@ -1,5 +1,7 @@
 # Fuel Up! -- Group Project 1
 
+## [LIVE](https://team6diamondplatipi.github.io/TechnicallyAMammal/)
+
 <img src="https://raw.githubusercontent.com/JonsOrganization/TechnicallyAMammal/master/images/FuelUp.png" width="70%" />
 
 ##  
@@ -15,8 +17,9 @@ We kind of bottlenecked in a way as everyone lost track of their roles and curre
 
 - User just got spouse an electric vehicle and is still truckin’ down the highway with gasoline under the hood. The couple wants a quick way for drivers in either vehicle to find the closest charging station, especially in a bind when their fuel is low. - 
 
+## APIs and Technology Used:
+<img src="https://user-images.githubusercontent.com/17928947/149254947-614ce113-8bba-4a1c-b6e5-20fced49c9cc.png" width="50%" />
 
- ## [LIVE](https://team6diamondplatipi.github.io/TechnicallyAMammal/)
  
 ## Contact
 <img src="https://avatars0.githubusercontent.com/u/17928947?v=4" alt="Github profile image" width="80px" height="80px" />
