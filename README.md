@@ -14,7 +14,7 @@ We kind of bottlenecked in a way as everyone lost track of their roles and curre
 - User just got spouse an electric vehicle and is still truckin’ down the highway with gasoline under the hood. The couple wants a quick way for drivers in either vehicle to find the closest charging station, especially in a bind when their fuel is low. - 
 
 
- ## LIVE: https://team6diamondplatipi.github.io/TechnicallyAMammal/ 
+ ## [LIVE](https://team6diamondplatipi.github.io/TechnicallyAMammal/)
  
 ## Contact
 <img src="https://avatars0.githubusercontent.com/u/17928947?v=4" alt="Github profile image" width="80px" height="80px" />
